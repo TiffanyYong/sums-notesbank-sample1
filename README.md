@@ -12,3 +12,6 @@ E.g.
 - "MATH 247 LaTeX, Winter 2018 - Shereen Elaidi"
 
 If you would like to link to your repository, pull request the README as well. 
+
+## Pull request tutorial
+https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
