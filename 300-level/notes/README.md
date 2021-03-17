@@ -1,8 +1,8 @@
 # Credits
 
-Shereen Elaidi - https://github.com/ShereenElaidi/mathnotes
-
 Dao Chen Yuan - https://daocheny.github.io/
+
+Shereen Elaidi - https://github.com/ShereenElaidi/mathnotes
 
 # Legend
 
