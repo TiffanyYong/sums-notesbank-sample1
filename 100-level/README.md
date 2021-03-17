@@ -1,9 +1,3 @@
-# Credits
+notes folder for notes
 
-Shereen Elaidi - https://github.com/ShereenElaidi/mathnotes
-
-# Legend
-
-MATH 133 - Linear Algebra and Geometry
-
-MATH 141 - Calculus 2
+source folder for source code
