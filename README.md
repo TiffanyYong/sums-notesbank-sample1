@@ -13,5 +13,6 @@ E.g.
 
 If you would like to link to your repository, pull request the README as well. 
 
-## Pull request tutorial
-https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+## Pull request tutorials (text or video)
+- https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+- https://www.youtube.com/watch?v=rgbCcBNZcdQ
