@@ -1,3 +1,3 @@
-# Credits:
+# Credits
 
-Shereen Elaidi: https://github.com/ShereenElaidi/mathnotes
+Shereen Elaidi - https://github.com/ShereenElaidi/mathnotes
